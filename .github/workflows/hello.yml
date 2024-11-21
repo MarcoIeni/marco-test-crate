@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: marco-test-action
-        uses: MarcoIeni/test-gh-action@v0.1
+        uses: MarcoIeni/test-gh-action@main
